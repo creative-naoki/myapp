@@ -36,11 +36,6 @@
     display: flex;
 }
 
-.main_brock h1 {
-    color: rgb(41, 32, 28);
-    text-align: center;
-}
-
 .button {
     position: absolute;
     bottom: 35%;
@@ -48,6 +43,11 @@
 
 
 /* ////////////////main///////////////////// */
+
+.main_brock h1 {
+    color: rgb(41, 32, 28);
+    text-align: center;
+}
 
 .box1 {
     background-color: coral;
