@@ -51,25 +51,27 @@
 
 .box1 {
     background-color: coral;
-    width: 89%;
-    height: 150px;
-    margin-right: 0;
-    margin-left: auto;
-    margin-top: 15px;
+    width: 47%;
+    height: 200px;
+    margin-right: 6%;
+    border-radius: 5px;
 }
 
 .box2 {
     background-color: rgb(255, 80, 80);
-    width: 89%;
-    height: 150px;
+    width: 47%;
+    height: 200px;
+    border-radius: 5px;
 }
 
-.box3 {
-    background-color: coral;
-    width: 89%;
-    height: 150px;
-    margin-right: 0;
-    margin-left: auto;
+.group1 {
+    margin: 15px 0;
+    display: flex;
+}
+
+.img_center {
+    text-align: center;
+    margin-top: 5px;
 }
 
 
