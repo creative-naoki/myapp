@@ -1,0 +1,113 @@
+.header {
+    position: relative;
+    height: 100vh;
+    width: 20%;
+    background-color: rgb(71, 60, 55);
+    margin: 0;
+}
+
+.tag1 {
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+}
+
+.tag1 p {
+    font-size: 20px;
+    margin: 5px 0;
+    margin-top: 30px;
+    text-align: center;
+}
+
+.create p {
+    font-size: 12px;
+    margin: 8px 0;
+    text-align: center;
+}
+
+.main_brock {
+    background-color: rgb(250, 243, 242);
+    width: 80%;
+    height: 100vh;
+}
+
+.naoki {
+    display: flex;
+}
+
+.button {
+    position: absolute;
+    bottom: 35%;
+}
+
+body {
+    margin: 0;
+}
+
+p {
+    color: azure;
+}
+
+h1 {
+    color: rgb(31, 22, 19);
+    text-align: center;
+}
+
+
+/* ///////////main/////////////// */
+
+.tag {
+    display: flex;
+}
+
+.yestaday p {
+    margin: 0;
+    margin-top: -2px;
+}
+
+.today p {
+    margin: 0;
+    margin-top: -2px;
+}
+
+.list p {
+    margin: 0;
+    margin-top: 1px;
+}
+
+.tag p {
+    color: white;
+    text-align: center;
+}
+
+.yestaday {
+    width: 20%;
+    height: 20px;
+    background-color: rgb(73, 63, 59);
+    border-radius: 5px;
+    margin: 0 10%;
+}
+
+.today {
+    width: 20%;
+    height: 20px;
+    background-color: rgb(73, 63, 59);
+    border-radius: 5px;
+    margin-right: 10%;
+}
+
+.list {
+    width: 20%;
+    height: 20px;
+    background-color: rgb(73, 63, 59);
+    border-radius: 5px;
+    margin-right: 10%;
+}
+
+.today_brock {
+    width: 90%;
+    height: 300px;
+    background-color: rgb(255, 220, 167);
+    margin: 40px auto;
+}
